@@ -1,0 +1,9 @@
+1.创建一个project
+2.创建一个本地文件夹
+3.用git bash打开并切换到此文件夹下，使用git init初始化文件夹
+4.建立与远程仓库的链接: git remote add origin git地址
+5.拉取远程仓库文件: git pull git地址
+6.修改本地文件
+7.将文件添加到缓冲区add：git add .
+	提交文件commit:git commit -m '提交说明'
+8.将本地仓库上传到github上: git push git地址
